@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "이 소프트웨어/데이터를 사용하면 아래와 같이 인용해 주세요."
+title: "SPCQI: SmartPlace Content Quality Index"
+authors:
+  - family-names: "Jo"
+    given-names: "Eunseon"
+    affiliation: "Metacuration"
+  - family-names: "Lee"
+    given-names: "Jisoo"
+    affiliation: "Handong Global University"
+  - family-names: "Choi"
+    given-names: "Ain"
+    affiliation: "Handong Global University"
+  - family-names: "Lee"
+    given-names: "Hanjin"
+    affiliation: "Handong Global University"
+    email: "discover@handong.ac.kr"
+preferred-citation:
+  type: conference-paper
+  title: "생성형 AI 콘텐츠 구조화 품질의 자동 평가 프레임워크(SPCQI)"
+  year: 2026
+  collection-title: "2026년 국제문화기술진흥원 국내 학술대회 논문집"
+license: MIT
+version: "1.0.0"
+date-released: "2026-06-05"
